@@ -1,0 +1,7 @@
+var_a= 0
+var_b= 1
+var_c= 1
+maquina= var_c and (var_b or var_a)
+print(maquina) 
+
+Karen Geraldine Urrego Bogota y Michelle Vanessa Bernal Montenegro
